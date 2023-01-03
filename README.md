@@ -4,7 +4,9 @@
 
 </p>
 
-<p align=”center”>
+<div id="name">
+<p>TEST TEST TEXT</p>
+</div>
 ## Hello, I am Dinesh Palli. 👋
 
 <p align=”center”>
