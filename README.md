@@ -13,6 +13,9 @@
 </p>
 
 <h3 align="center"> Glad to see you here!</h3>
+<p align="center">
+    <img src="https://visitor-badge.glitch.me/badge?page_id=dineshpalli.visitor-badge" />
+</p>
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=dineshpalli.visitor-badge)
 
 ### 💼 Technical Skills
