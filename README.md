@@ -8,8 +8,8 @@
 <h2 align="center"> I am a python developer and a biologist.</h2>
 
 
-<p align=”center”>
-    <img width="400" height="400" src="https://user-images.githubusercontent.com/62892012/210447937-adf29dd9-60e5-40c0-8d00-57d7e39d8d68.png" alt="my logo"/>
+<p align="center">
+    <img width="400" height="400" src="https://user-images.githubusercontent.com/62892012/210447937-adf29dd9-60e5-40c0-8d00-57d7e39d8d68.png" />
 </p>
 
 <p align="center">
