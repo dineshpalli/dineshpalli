@@ -4,7 +4,8 @@
 
 </p>
 
-<div align="center"> # Hello, I am Dinesh Palli. 👋</div>
+<h1 align="center"> # Hello, I am Dinesh Palli. 👋</h1>
+
 
 <p align=”center”>
 
