@@ -19,7 +19,7 @@ I am a student of M. Sc Plant Sciences at the LMU, München.
 
 <h3> Work </h3>
 <p align=”center”>
-    <img width= "2475" height="235" src="https://user-images.githubusercontent.com/62892012/210447754-78ce2218-a970-43dd-a115-987700aa330c.png" alt="my banner">
+    <img width= "2475" height="220" src="https://user-images.githubusercontent.com/62892012/210447754-78ce2218-a970-43dd-a115-987700aa330c.png" alt="my banner">
 </p>
 Currently a master’s thesis researcher at Dr Fabian Theis lab, Helmholtz AI, München. The objective of my project is “Embedding optimization with deep neural networks for clustering image based flow cytometry data”. Concurrently, a student intern at Dr Dagmar Kainmüller’s lab, in collaboration with Max Delbrück Center and Charité – Universitätsmedizin Berlin where I work on "Cell deconvolution from single-cell and spatial transcriptomics”
 
