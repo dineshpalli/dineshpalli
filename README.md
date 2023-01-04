@@ -17,8 +17,8 @@
 
 <img 
     style="display: block; 
-           margin-left: auto;
-           margin-right: auto;
+           margin-left: 500;
+           margin-right: 500;
            width: 30%;"
     src="https://user-images.githubusercontent.com/62892012/210447937-adf29dd9-60e5-40c0-8d00-57d7e39d8d68.png" 
     alt="My logo">
