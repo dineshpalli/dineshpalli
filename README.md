@@ -12,7 +12,7 @@
     <img width="400" height="400" src="https://user-images.githubusercontent.com/62892012/210447937-adf29dd9-60e5-40c0-8d00-57d7e39d8d68.png" />
 </p>
 
-<h3 align="center"> Glad to see you here! <img src="https://visitor-badge.glitch.me/badge?page_id=dineshpalli.visitor-badge" /> </h3>
+<h3 align="center"> Glad to see you here! <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdineshpalli%2F&label=Visitors&labelColor=%23ff8a65&countColor=%232ccce4&style=plastic" /> </h3>
 
 <h3> About </h3>
 I am a student of M. Sc Plant Sciences at the LMU, München.
