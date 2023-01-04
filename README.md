@@ -12,9 +12,6 @@
     <img width="400" height="400" src="https://user-images.githubusercontent.com/62892012/210447937-adf29dd9-60e5-40c0-8d00-57d7e39d8d68.png" />
 </p>
 
-<p align="center">
-  <img src="http://some_place.com/image.png" />
-</p>
-
+<h3 align="center"> Glad to see you here! ![visitor badge](https://visitor-badge.deta.dev/badge?page_id=dineshpalli.visitor-badge)</h3>
 
 ### 💼 Technical Skills
