@@ -34,5 +34,8 @@ Currently a master’s thesis researcher at Dr Fabian Theis lab, Helmholtz AI, M
 ### 📈 My GitHub Stats
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dineshpalli&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
+[![Dinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dineshpalli&count_private=true)](https://github.com/dineshpalli/)
+
+
 ### 🤝 Connect With Me
 <a href="https://www.linkedin.com/in/dineshpalli/"><img width="25" height="25" align=”left” src="https://github.com/dineshpalli/dineshpalli/blob/main/imagesandicons/LinkedIn_Icon.png" alt="Dinesh Palli | LinkedIn" width=”21px”/></a>        <a href="https://twitter.com/Dinesh_Palli"><img width="25" height="25" align=”left” src="https://github.com/dineshpalli/dineshpalli/blob/main/imagesandicons/Twitter_Icon.png" alt="Dinesh Palli | Twitter" width=”21px”/></a>      <a href="https://www.instagram.com/dinesh_palli/"><img width="25" height="25" align=”left” src="https://github.com/dineshpalli/dineshpalli/blob/main/imagesandicons/Instagram_Icon.png" alt="Dinesh Palli | Instagram" width=”21px”/></a>       <a href="mailto:kpkdkr@duck.com"><img width="25" height="25" align=”left” src="https://github.com/dineshpalli/dineshpalli/blob/main/imagesandicons/Email_Logo.png" alt="Dinesh Palli | Email" width=”21px”/></a>
