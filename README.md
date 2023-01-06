@@ -38,7 +38,7 @@ Currently a master’s thesis researcher at Dr Fabian Theis lab, Helmholtz AI, M
 
 -->
 
-[![Dinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dineshpalli&count_private=true&show_icons=true)](https://github.com/dineshpalli/)
+[![Dinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dineshpalli&count_private=true&show_icons=true&theme=dracula)](https://github.com/dineshpalli/)
 
 
 ### 🤝 Connect With Me
