@@ -34,7 +34,7 @@ Currently a master’s thesis researcher at Dr Fabian Theis lab, Helmholtz AI, M
 ### 📈 My GitHub Stats
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dineshpalli&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
-[![Dinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dineshpalli&count_private=true)](https://github.com/dineshpalli/)
+[![Dinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dineshpalli&count_private=true&show_icons=true)](https://github.com/dineshpalli/)
 
 
 ### 🤝 Connect With Me
