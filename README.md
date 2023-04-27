@@ -19,17 +19,17 @@ I am a student of M. Sc Plant Sciences at the LMU, München.
 
 <h3> 📍 Work </h3>
 <p align=”center”>
-    <img width= "2475" height="220" src="https://user-images.githubusercontent.com/62892012/210447754-78ce2218-a970-43dd-a115-987700aa330c.png" alt="my banner">
+    <img width= "2475" height="220" src="https://user-images.githubusercontent.com/62892012/234931285-58921b8c-feae-47f0-a807-34d490af6264.png" alt="my banner">
 </p>
 Currently a master’s thesis researcher at Prof Dr Fabian Theis lab, Helmholtz AI, München. The objective of my project is “Embedding optimization with deep neural networks for clustering image based flow cytometry data”.
 
 Concurrently, a student developer at Prof Dr Dagmar Kainmüller’s lab, in collaboration with Max Delbrück Center and Charité – Universitätsmedizin Berlin where I work on machine learning in image analysis and "Cell deconvolution from single-cell and spatial transcriptomics”. 
 <h3> 🧑🏻‍💻 Experience </h3>
-<p>I am a part of the open-source community, where I contributed to the development of SquidPy and SquidPy notebooks, tools for the analysis and visualization of large spatial molecular data [click_here](https://github.com/scverse/squidpy/blob/main/squidpy/read/_read.py). I contributed to the development of [PolarityJam](https://polarityjam.readthedocs.io/en/latest/), a tool designed for extracting, analyzing, and visualizing cellular data from images. I have experience using PyTorch, Numpy, Pandas, Linux and HPC.</p>
+<p>I am a part of the open-source community, where I contributed to the development of SquidPy and SquidPy notebooks, tools for the analysis and visualization of spatial molecular data [click_here](https://github.com/scverse/squidpy/blob/main/squidpy/read/_read.py). I contributed to the development of [PolarityJam](https://polarityjam.readthedocs.io/en/latest/), a tool designed for extracting, analyzing, and visualizing cellular data from images. I have experience using PyTorch, Numpy, Pandas, Linux and HPC.</p>
 
 <p>I tutored the courses “[Machine Learning in Image Analysis](https://hpi.de/studium/im-studium/lehrveranstaltungen/digital-health-ma/lehrveranstaltung/sose-23-3796-machine-learning-for-image-analysis.html)” course at Hasso Plattner Institute for 72 students and "Introduction to Single-Cell RNA Sequencing Data Analysis with ScanPy” at the Helmholtz AI for 28 students. </p>
 
-<p>Presently, I am developing a visualization tool for large single-cell datasets at Charité. Additionally, I enjoy hands-on work in the lab. </p>
+<p>Presently, I am developing a visualization tool for single-cell datasets at Charité. Additionally, I enjoy hands-on work in the lab. </p>
 
 ----
 
