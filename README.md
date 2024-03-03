@@ -19,7 +19,7 @@ I am a student of M. Sc Plant Sciences at the LMU, München.
 
 <h3> 📍 Work </h3>
 <p align=”center”>
-    <img width= "2475" height="220" src="https://private-user-images.githubusercontent.com/62892012/307787702-99e113f2-9b9e-4b77-8cd5-9cbd1e9e60eb.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDg5NTUyODcsIm5iZiI6MTcwODk1NDk4NywicGF0aCI6Ii82Mjg5MjAxMi8zMDc3ODc3MDItOTllMTEzZjItOWI5ZS00Yjc3LThjZDUtOWNiZDFlOWU2MGViLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjI2VDEzNDMwN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTBiMWQ2OWEyMzgyODA0NTQxMDM3Y2JiYmE4OGQwYzA0YmI4MmFkMmNhMDkyYWM1ODJjYzg5ODdkYTM2YTNiZWQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.O8h3AiVhDNBa6-_xVKiXejI_KVOWDn7S75MXfafJyzY" alt="my banner">
+    <img width= "2475" height="220" src="https://github.com/dineshpalli/dineshpalli/blob/main/imagesandicons/LinkedInBanner.png?raw=true" alt="my banner">
 </p>
 Currently a BI analysis werkstudent at Olympus, Hamburg.
 
