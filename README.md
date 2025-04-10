@@ -15,21 +15,26 @@
 <h3 align="center"> Glad to see you here! <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdineshpalli%2F&label=Visitors&labelColor=%23ff8a65&countColor=%232ccce4&style=plastic" /> </h3>
 
 <h3> 📜 About </h3>
-I am a student of M. Sc Plant Sciences at the LMU, München.
+
+* 5+ years in data science, analysis and visualization: machine learning, BI, KPI dashboard reporting, digitization and automation, Python, SQL, R; developed and documented open-source data analysis tools with >300 stars on GitHub.
+
+* Proven track record in business environments securing 4 partnerships and contributing to a 7.4% increase in market reach.
+
+* Experienced in Biomedical AI, computational biology, developing visualization tools for datasets with >250k rows.
 
 <h3> 📍 Work </h3>
 <p align=”center”>
     <img width= "2475" height="220" src="https://github.com/dineshpalli/dineshpalli/blob/main/imagesandicons/LinkedInBanner.png?raw=true" alt="my banner">
 </p>
-Currently a BI analysis werkstudent at Olympus, Hamburg.
+Previously a BI werkstudent at Olympus EMEA, Hamburg, where I reduced processing time by 37.48% by digitizing operational processes using Microsoft Power Apps. Engineered an end-to-end data pipeline in python including ETL processes, automated regulatory reporting, database management and internal ERP systems. Automated KPI dashboards with Power BI, data modeling and statistical analysis. Collaborated in the healthcare aggregate spend disclosure process, ensuring compliance with EMEA regulations and GDPR legislation.
 
-Concurrently, an open-source contributor in biomedical AI at Prof Dr Dagmar Kainmüller’s lab, in collaboration with Helmholtz Imaging, Berlin where I work on deep learning in image analysis.
+Before that, an open-source contributor in biomedical AI at Prof Dr Dagmar Kainmüller’s lab, in collaboration with Helmholtz Imaging, Berlin where I work on deep learning in image analysis.
 <h3> 🧑🏻‍💻 Experience </h3>
 <p>I am a part of the open-source community, where I contributed to the development of SquidPy and SquidPy notebooks, tools for the analysis and visualization of spatial molecular data <a href="https://github.com/scverse/squidpy/blob/main/squidpy/read/_read.py" target="_blank" rel="noopener noreferrer">click_here</a>. I developed a visualization tool for single-cell datasets at Charité. I contributed to the development of <a href="https://polarityjam.readthedocs.io/en/latest/" target="_blank" rel="noopener noreferrer">PolarityJam</a>, a tool designed for extracting, analyzing, and visualizing cellular data from images. I have experience using PyTorch, Numpy, Pandas, Linux and HPC.</p>
 
 <p>I tutored the courses <a href="https://hpi.de/studium/im-studium/lehrveranstaltungen/digital-health-ma/lehrveranstaltung/sose-23-3796-machine-learning-for-image-analysis.html" target="_blank" rel="noopener noreferrer"> "Machine Learning in Image Analysis</a>" course at Hasso Plattner Institute for 72 students and "Introduction to Single-Cell RNA Sequencing Data Analysis with ScanPy” at the Helmholtz AI for 28 students.</p>
 
-<p>Additionally, I enjoy hands-on work in the lab. </p>
+<!-- <p>Additionally, I enjoy hands-on work in the lab. </p> -->
 
 ----
 
