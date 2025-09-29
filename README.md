@@ -172,6 +172,8 @@ Here are some of the projects I've been working on recently:
 [![Quora](https://img.shields.io/badge/Quora-B92B27?logo=quora&logoColor=fff)](#)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white)](#)
 
+----
+
 ### 📈 My GitHub Stats
 <!--
 
@@ -180,6 +182,9 @@ Here are some of the projects I've been working on recently:
 -->
 
 [![Dinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dineshpalli&count_private=true&show_icons=true&theme=dracula)](https://github.com/dineshpalli/)
+
+----
+
 
 ### 🤝 Connect With Me
 
