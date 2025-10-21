@@ -5,7 +5,7 @@
 </p> -->
 
 <h1 align="center"> Hello, I am Dinesh Palli. 👋</h1>
-<h2 align="center"> I am a data professional, python developer and a biologist.</h2>
+<h2 align="center"> I am a Data Engineer | Python Developer | Published Computational Biologist.</h2>
 
 <p align="center">
     <img width="400" height="400" src="https://user-images.githubusercontent.com/62892012/210447937-adf29dd9-60e5-40c0-8d00-57d7e39d8d68.png" />
@@ -44,32 +44,55 @@ Here are some of the projects I've been working on recently:
 ----
 <h3> 📍 Work Experience </h3>
 
+**Data Engineer | Neue Pressegesellschaft (Oct 2025 — Present)**
+
+* I'm currently a Data Engineer at NPG Digital, where I build and manage our data ecosystem. My role spans the entire data lifecycle - from designing, building robust ETL data pipelines to conducting deep-dive analytics and applying data science methodologies.
+
+**Sales Manager | seedalive GmbH (Aug 2025 — Oct 2025)**
+
+* Led international business development initiatives in India, establishing strategic partnerships and expanding market presence through targeted client acquisition campaigns
+
+* Conducted comprehensive market analysis of India's seed industry, identifying high-potential strategic partners and compiling critical market intelligence on sector trends, competitive landscape, and growth opportunities
+
+* Developed and deployed interactive Power BI dashboards to visualize market research findings, enabling data-driven decision making and strategic planning for Indian market penetration
+
+* Architected and deployed server infrastructure solutions, ensuring seamless technical implementation and optimal system performance for client operations
+
+* Delivered comprehensive training programs to client personnel, including students and staff members, enabling successful execution of experimental protocols and enhancing operational capabilities
+
+* Led end-to-end project management of international business trips and corporate events, coordinating logistics, stakeholder engagement, and strategic planning to maximize ROI and client satisfaction
+
+**Barista & Store Operations | Copenhagen Coffee Lab (May 2025 — Jul 2025)**
+
+* Handled all-round store duties including expert wide variety of coffee preparation (Yes! Ofc with latte art! ☕🎨), customer service, billing, point-of-sale (POS) system, and inventory management
+
+* Ensured smooth daily operations, from store opening and closing to maintaining cleanliness, coordinated and organized food storage, supply logistics across multiple branches
+
 **Business Intelligence Working Student | Olympus Europa EMEA (Feb 2024 — Feb 2025)**
 
-* Reduced processing time by 37.48% by digitizing operational processes with Microsoft Power Apps.
+* Reduced processing time by 37.48% by digitizing operational processes with Microsoft Power Apps
 
-* Engineered an end-to-end data pipeline in Python for ETL, automated regulatory reporting, and database management.
+* Engineered an end-to-end data pipeline in Python for ETL, automated regulatory reporting, and database management
 
-* Automated KPI dashboards using Power BI, data modeling, and statistical analysis.
+* Automated KPI dashboards using Power BI, data modeling, and statistical analysis
 
 **Machine Learning Working Student | Charite – University Medicine (Dec 2022 — Feb 2024)**
 
-* Engineered and published a machine learning model for cell segmentation.
+* Engineered and published a machine learning model for cell segmentation
 
-* Developed a visualization tool for large-scale single-cell datasets, improving data comprehension.
+* Developed a visualization tool for large-scale single-cell datasets, improving data comprehension
 
-* Automated code quality checks and enforced coding standards to enhance codebase stability.
+* Automated code quality checks and enforced coding standards to enhance codebase stability
 
 **Biomedical AI – Master Thesis | Helmholtz AI (Feb 2023 — Aug 2023)**
 
-* Increased clustering purity of high-dimensional cytometry data by 26.31% by implementing Neighborhood Component Analysis (NCA).
+* Increased clustering purity of high-dimensional cytometry data by 26.31% by implementing Neighborhood Component Analysis (NCA)
 
-* Developed a comprehensive analysis pipeline for high-dimensional biological image data, enabling visualization across datasets with over 22,000 labeled images.
+* Developed a comprehensive analysis pipeline for high-dimensional biological image data, enabling visualization across datasets with over 22,000 labeled images
 
 **Open-Source Developer | Helmholtz AI (2021 — 22)**
 
-* Built ETL functions processing 250k+ rows, adopted by 1000+ biologists.
-
+* Built ETL functions processing 250k+ rows, adopted by 1000+ biologists
 
 <p>I am a part of the open-source community, where I contributed to the development of SquidPy and SquidPy notebooks, tools for the analysis and visualization of spatial molecular data <a href="https://github.com/scverse/squidpy/blob/main/squidpy/read/_read.py" target="_blank" rel="noopener noreferrer">click_here</a>. I contributed to the development of <a href="https://polarityjam.readthedocs.io/en/latest/" target="_blank" rel="noopener noreferrer">PolarityJam</a>, a tool designed for extracting, analyzing, and visualizing cellular data from images. I have experience using PyTorch, Numpy, Pandas, Linux and HPC.</p>
 
@@ -184,7 +207,6 @@ Here are some of the projects I've been working on recently:
 [![Dinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dineshpalli&count_private=true&show_icons=true&theme=dracula)](https://github.com/dineshpalli/)
 
 ----
-
 
 ### 🤝 Connect With Me
 
